@@ -1,5 +1,5 @@
 FROM alpine:3.4
-LABEL author Alfred Gutierrez <alf.g.jr@gmail.com>
+LABEL author Robert <kingdom102@gmail.com>
 
 ENV NGINX_VERSION 1.13.9
 ENV NGINX_RTMP_VERSION 1.2.1
